@@ -48,8 +48,6 @@ The dataset contains **395 observations** and **35 features**, including:
 - Random Forest Feature Importance plots.
 
 ## 📚 Credits
-[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Student%20Performance-blue?logo=kaggle)](https://www.kaggle.com/datasets) <!-- Replace with actual link -->
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Student%20Performance-blue?logo=kaggle)](https://www.kaggle.com/datasets/devansodariya/student-performance-data/data) 
 
-## 📚 Credits
-- Dataset: [UCI Machine Learning Repository (Student Performance Dataset)](https://archive.ics.uci.edu/ml/datasets/student+performance)
-- Developed by: *Your Name Here*
+
