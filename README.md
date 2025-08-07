@@ -1,6 +1,11 @@
 # 📊 Student Performance Prediction
 
 This project focuses on predicting student final grades using various features such as academic history, personal background, and behavioral attributes. The objective is to develop predictive models that can accurately estimate student outcomes based on available data.
+---
+by:
+Rama Idriss Umali 
+Tyrese Kimaru
+John lyomoki
 
 ---
 
